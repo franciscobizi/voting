@@ -1,0 +1,33 @@
+{
+  "name": "vote",
+  "version": "1.0.0",
+  "description": "Web App for voting",
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "chart.js": "^1.1.1",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-scripts": "1.1.0",
+    "reactstrap": "^5.0.0-alpha.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franciscobizi/voting.git"
+  },
+  "keywords": [
+    "Vote"
+  ],
+  "author": "Francisco Bizi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/franciscobizi/voting/issues"
+  },
+  "homepage": "https://github.com/franciscobizi/voting#readme"
+}
