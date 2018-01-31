@@ -4,8 +4,9 @@
   "description": "Web App for voting",
   "dependencies": {
     "bootstrap": "^4.0.0",
-    "chart.js": "^1.1.1",
+    "chart.js": "^2.7.1",
     "react": "^16.2.0",
+    "react-chartjs-2": "^2.7.0",
     "react-dom": "^16.2.0",
     "react-scripts": "1.1.0",
     "reactstrap": "^5.0.0-alpha.4"
