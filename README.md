@@ -1,11 +1,11 @@
 # Voting 
 
 Wep App for voting. Simple App that can be used for voting purpose. The App has friendly UI and very ease to use.
-It was made by Reactjs Libray using JS as programming language.
-Feel free to use or to adapt it for your needs.
+It was made by using Reactjs Library and JavaScript as programming language.
+Feel free to use or to adapt it for your need.
 
-Libray Reactjs
+**Library Reactjs**
 
-Tecnology JavaScript
+**Tecnology JavaScript**
 
-Author : Francisco Bizi
+**Author : Francisco Bizi**
